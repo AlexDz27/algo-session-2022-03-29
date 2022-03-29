@@ -5,3 +5,4 @@ const exampleArrSmaller1 = [141, 1, 17, 18, 541, 7]
 
 // test cases
 const testCase11 = [-1, -2, -3, -7, -17, -27, -18, -541, -8, -7, 7]
+const testCase11Smaller1 = [-1, -2, -3, -7, -17, -27, -18]
